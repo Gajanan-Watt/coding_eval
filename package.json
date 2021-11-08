@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "tailwindcss": "^2.2.19"
+  },
+  "name": "coding_eval",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "css:build": "tailwind build ./src/style.css -o ./dist/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
